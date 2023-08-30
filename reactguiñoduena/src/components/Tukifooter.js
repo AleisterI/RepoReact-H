@@ -3,7 +3,7 @@ import React from 'react'
 export const Tukifooter = () => {
     return (
         <div className='tukifooter'>
-             return <footer>{`Copyright © Upbeat Code `}</footer>;
+             return <footer>{`Copyright ©Tukiguiño Upbeat Code `}</footer>;
             
         </div>
     )
